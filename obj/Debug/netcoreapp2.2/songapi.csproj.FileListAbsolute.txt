@@ -1,0 +1,14 @@
+/Users/wu/Projects/songapi/songapi/obj/Debug/netcoreapp2.2/songapi.csprojAssemblyReference.cache
+/Users/wu/Projects/songapi/songapi/obj/Debug/netcoreapp2.2/songapi.csproj.CoreCompileInputs.cache
+/Users/wu/Projects/songapi/songapi/obj/Debug/netcoreapp2.2/songapi.RazorAssemblyInfo.cache
+/Users/wu/Projects/songapi/songapi/obj/Debug/netcoreapp2.2/songapi.RazorAssemblyInfo.cs
+/Users/wu/Projects/songapi/songapi/obj/Debug/netcoreapp2.2/songapi.AssemblyInfoInputs.cache
+/Users/wu/Projects/songapi/songapi/obj/Debug/netcoreapp2.2/songapi.AssemblyInfo.cs
+/Users/wu/Projects/songapi/songapi/obj/Debug/netcoreapp2.2/songapi.RazorTargetAssemblyInfo.cache
+/Users/wu/Projects/songapi/songapi/obj/Debug/netcoreapp2.2/songapi.dll
+/Users/wu/Projects/songapi/songapi/obj/Debug/netcoreapp2.2/songapi.pdb
+/Users/wu/Projects/songapi/songapi/bin/Debug/netcoreapp2.2/songapi.deps.json
+/Users/wu/Projects/songapi/songapi/bin/Debug/netcoreapp2.2/songapi.runtimeconfig.json
+/Users/wu/Projects/songapi/songapi/bin/Debug/netcoreapp2.2/songapi.runtimeconfig.dev.json
+/Users/wu/Projects/songapi/songapi/bin/Debug/netcoreapp2.2/songapi.dll
+/Users/wu/Projects/songapi/songapi/bin/Debug/netcoreapp2.2/songapi.pdb
